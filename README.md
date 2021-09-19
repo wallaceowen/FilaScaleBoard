@@ -11,5 +11,5 @@ It was built to the requirements of a filament monitoring device.  The board pro
 * Serial communications with a host
 * Wifi and bluetooth connectivity
 
-![My board](tree/master/filacase.png)
+![My board](/filacase.png)
 
