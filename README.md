@@ -11,7 +11,10 @@ It was built to the requirements of a filament monitoring device.  The board pro
 * Serial communications with a host
 * Wifi and bluetooth connectivity
 
-![My board](/filacase.png)
+
+## The board (KiCAD rendering)
+![The board](/filacase.png)
+
 
 
 ## The firmware
