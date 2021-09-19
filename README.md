@@ -16,5 +16,5 @@ It was built to the requirements of a filament monitoring device.  The board pro
 
 ## The firmware
 The board runs code for monitoring the humidity and weight of a spool of 3D printer filament in a drybox.
-  [GitHub](github.com/wallaceowen/FilaScale/tree/master)
+  [GitHub](https://github.com/wallaceowen/FilaScale/tree/master)
 The code is C++, and uses the simple Arduino toolchain.
